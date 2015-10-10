@@ -1,6 +1,7 @@
 name: Alps
 favicon: null
 layout_spectrum: 0.8
+title: Alps
 cta:
   domain: null
   bucket: null
@@ -21,5 +22,5 @@ color:
   rhythmicContrast: 0.5
 purpose:
   - name: awareness
-    item: null
+    item: 2c164be5-fdf1-4041-b88b-1087429ff7c6
     url: null
